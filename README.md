@@ -1,5 +1,5 @@
 # Proyek-UAS
-Pengklasifikasian Planet Ekstrasurya (Bumi atau tidak)
+Pengklasifikasian Planet Ekstrasurya (Bumi Super atau tidak)
 
 Anggota Kelompok:
 1. Gregorius Tifanico - C14190135
