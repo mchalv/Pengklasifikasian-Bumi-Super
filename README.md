@@ -1,4 +1,4 @@
-# Proyek-UAS
+# Proyek UAS Kecerdasan Buatan
 Pengklasifikasian Planet Ekstrasurya (Bumi Super atau tidak)
 
 Anggota Kelompok:
